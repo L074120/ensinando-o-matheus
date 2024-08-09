@@ -1,0 +1,28 @@
+**{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+}
+
+.giratina{
+    width: 500px;
+    height: 500px;
+}
+
+.palkia{
+    width: 500px;
+    height: 500px;
+}
+
+.dialga{
+    width: 500px;
+    height: 500px;
+    box-shadow: 0 0 100px blue;
+}
